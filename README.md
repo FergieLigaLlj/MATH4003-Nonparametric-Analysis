@@ -11,12 +11,12 @@ Here is the **fundamental comprehension** of Nonparametric Analysis:
 ### Course Outline: The objective of the course is to prepare the students for effective
     use of nonparametric statistics and to introduce some basic methods of nonparametric
     inference for statistical data analysis.
-• Introduction
-• Rank methods for one-sample problem (The signed rank test)
-• Rank methods for two-sample problem (Wilcoxon rank-sum test)
-• Rank test for the one-way layout (Kruskal-Wallis test)
-• Linear regression and independence
-• Order statistics and related statistics, and their distributions
-• Robust estimates and related procedures
-• Goodness of fit test (Kolmogorov test)
+• Introduction/
+• Rank methods for one-sample problem (The signed rank test)/
+• Rank methods for two-sample problem (Wilcoxon rank-sum test)/
+• Rank test for the one-way layout (Kruskal-Wallis test)/
+• Linear regression and independence/
+• Order statistics and related statistics, and their distributions/
+• Robust estimates and related procedures/
+• Goodness of fit test (Kolmogorov test)/
 • Nonparametric curve estimation
